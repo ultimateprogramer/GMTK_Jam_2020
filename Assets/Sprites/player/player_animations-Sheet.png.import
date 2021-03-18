@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/vines_background.png-fe8af8d1e1c2d16e5999f9127d67324e.stex"
+path="res://.import/player_animations-Sheet.png-3e817f90ab8b9b3a7816b1b7fcf7e050.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/tilesets/vines_background.png"
-dest_files=[ "res://.import/vines_background.png-fe8af8d1e1c2d16e5999f9127d67324e.stex" ]
+source_file="res://Assets/Sprites/player/player_animations-Sheet.png"
+dest_files=[ "res://.import/player_animations-Sheet.png-3e817f90ab8b9b3a7816b1b7fcf7e050.stex" ]
 
 [params]
 

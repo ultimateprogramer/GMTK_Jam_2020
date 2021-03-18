@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tiles_palette.png-c981b983809b70ff8c9582967434f30f.stex"
+path="res://.import/grass_rock_terrain.png-1f78d3851d5c67287b9987310114be3c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/tilesets/tiles_palette.png"
-dest_files=[ "res://.import/tiles_palette.png-c981b983809b70ff8c9582967434f30f.stex" ]
+source_file="res://Assets/Sprites/tilesets/grass_rock_terrain.png"
+dest_files=[ "res://.import/grass_rock_terrain.png-1f78d3851d5c67287b9987310114be3c.stex" ]
 
 [params]
 
